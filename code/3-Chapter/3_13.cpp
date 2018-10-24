@@ -1,3 +1,4 @@
+//利用widthStep方法把interest_img的所有像素值增加100
 #include "opencv/cv.h"
 #include "opencv/highgui.h"
 #include <iostream>
